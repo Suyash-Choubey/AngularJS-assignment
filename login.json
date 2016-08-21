@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>How to create a JavaScript object array.</p>
+
+<p id="demo"></p>
+
+<script>
+var employees = [
+    {
+    "username":"Suyash",
+    "password":"123"
+    }, 
+    {
+    "username":"test",
+    "password":"exam"
+    },
+    {
+    "username":"abc",
+    "password":"123"
+    }
+];
+
+</script>
+
+</body>
+</html>
